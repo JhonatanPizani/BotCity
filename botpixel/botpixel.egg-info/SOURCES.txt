@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botpixel/__init__.py
+botpixel/__main__.py
+botpixel/bot.py
+botpixel.egg-info/PKG-INFO
+botpixel.egg-info/SOURCES.txt
+botpixel.egg-info/dependency_links.txt
+botpixel.egg-info/requires.txt
+botpixel.egg-info/top_level.txt
+botpixel/resources/start.png

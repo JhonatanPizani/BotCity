@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+BotDesktop/__init__.py
+BotDesktop/__main__.py
+BotDesktop/bot.py
+BotDesktop.egg-info/PKG-INFO
+BotDesktop.egg-info/SOURCES.txt
+BotDesktop.egg-info/dependency_links.txt
+BotDesktop.egg-info/requires.txt
+BotDesktop.egg-info/top_level.txt
+BotDesktop/resources/start.png

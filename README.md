@@ -1,2 +1,1 @@
-# BotCity
-bot
+# Bot de automação para o jogo pixel
